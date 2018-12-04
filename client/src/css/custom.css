@@ -1,0 +1,30 @@
+.m-t-40{
+    margin-top: 40px;
+}
+.pull-right{
+    float:right;
+}
+.user-info{
+    padding: 6px;
+    background: #dedede;
+}
+.poll-block{
+    background: #e9e9e9;
+    padding: 12px;
+    margin: 10px;
+    text-align: justify;
+    color: #4c4c4c;
+    border-radius: 2px;
+}
+.poll-block:hover {
+    cursor: pointer;
+    background: #dedede;
+    color: #414141;
+}
+.btn-smaller{
+    padding:4px;
+    margin:3px;
+}
+.selected-poll{
+    background-color: #acc0c0;
+}

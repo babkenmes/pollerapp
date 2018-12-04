@@ -1,0 +1,12 @@
+{
+  "editor.wordBasedSuggestions":false,
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./client/src/*"
+      ],
+    },
+    "checkJs": false
+  }
+}

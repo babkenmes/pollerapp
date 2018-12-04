@@ -1,0 +1,10 @@
+﻿{
+  "jwtSecret": "POLLER3cr3tK3Y",
+  "ClientId": "pollerrAppV1",
+  "ClientSecret": "abc123456",
+  "publicFolderRelativePath": "./public",
+  "mongoose": {
+    "uri": "mongodb://localhost/Poller"
+  },
+  "websiteUrl":  "https://localhost:3000"
+}
